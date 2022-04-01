@@ -5,7 +5,10 @@ A minimalist implementation of DDPG.
 
 Pe-trained networks for these two environments are provided in the [saved_networks](saved_networks/) folder.
 
-A demonstration of their optimal policy during inference is shown below
+A demonstration of their optimal policy during inference is shown below:
+
+![Inverted Pendulum](media/invertedpendulum.gif)
+![Reacher](media/reacher.gif)
 
 ### Setup
 

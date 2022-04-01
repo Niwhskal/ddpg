@@ -53,7 +53,7 @@ This is sufficient to train without hassle. However, if you wish to tinker, you 
 
 ### Inference
 
-Once trained, you will have weights saved in [saved_networks/](saved_networks/) folder. If not you need to place them in *saved_networks/\*your_env_name\*/* folder.
+Once trained, you will have weights saved in [saved_networks](saved_networks/) folder. If not you need to place them in *saved_networks/\*your_env_name\*/* folder.
 
 you can run inference using:
 
